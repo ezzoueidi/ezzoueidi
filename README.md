@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on k8s operator written in Rust, will publish the repo soon.
 - 💬 Ask me about Linux, distributed systems and SRE.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nezzoueidi/)https://www.linkedin.com/in/nezzoueidi/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nezzoueidi/)
 - 😄 Pronouns: he/him
 
   
